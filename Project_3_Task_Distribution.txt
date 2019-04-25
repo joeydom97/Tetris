@@ -1,0 +1,23 @@
+
+CSE 2102
+24 March 2019
+Professor Greg Johnson
+
+Project 3: Tetris
+Team 6
+
+Kalidindi,Sruthi
+¥ 
+¥ 
+
+Kimball Jr,Jack Marquis
+¥ worked on checking validity for moves
+¥ worked on checking if pieces could move based on whether they fit in the board
+
+Darminova,Lisa
+¥ worked on key interactions
+¥ worked on the space bar and down arrow (faster falling down while not letting the tetrimino move)
+
+Dominick,Joe Richard
+¥ worked on the Tetrimino class and made it work with addToBoard() function of gamepanel, and worked on the GamePanel implementing the functions canMove(), isFree(), isValid(), addToBoard(), moveBlocksDown(), checkRows(), checkEndGame, and actionPerformed(). 
+¥ 
